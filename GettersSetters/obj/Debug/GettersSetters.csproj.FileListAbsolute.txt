@@ -1,0 +1,7 @@
+C:\Users\DATDI\OneDrive\Escritorio\Learning\GettersSetters\bin\Debug\GettersSetters.exe.config
+C:\Users\DATDI\OneDrive\Escritorio\Learning\GettersSetters\bin\Debug\GettersSetters.exe
+C:\Users\DATDI\OneDrive\Escritorio\Learning\GettersSetters\bin\Debug\GettersSetters.pdb
+C:\Users\DATDI\OneDrive\Escritorio\Learning\GettersSetters\obj\Debug\GettersSetters.csprojAssemblyReference.cache
+C:\Users\DATDI\OneDrive\Escritorio\Learning\GettersSetters\obj\Debug\GettersSetters.csproj.CoreCompileInputs.cache
+C:\Users\DATDI\OneDrive\Escritorio\Learning\GettersSetters\obj\Debug\GettersSetters.exe
+C:\Users\DATDI\OneDrive\Escritorio\Learning\GettersSetters\obj\Debug\GettersSetters.pdb

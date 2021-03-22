@@ -1,0 +1,7 @@
+C:\Users\DATDI\OneDrive\Escritorio\Learning\Practice2\bin\Debug\Practice2.exe.config
+C:\Users\DATDI\OneDrive\Escritorio\Learning\Practice2\bin\Debug\Practice2.exe
+C:\Users\DATDI\OneDrive\Escritorio\Learning\Practice2\bin\Debug\Practice2.pdb
+C:\Users\DATDI\OneDrive\Escritorio\Learning\Practice2\obj\Debug\Practice2.csprojAssemblyReference.cache
+C:\Users\DATDI\OneDrive\Escritorio\Learning\Practice2\obj\Debug\Practice2.csproj.CoreCompileInputs.cache
+C:\Users\DATDI\OneDrive\Escritorio\Learning\Practice2\obj\Debug\Practice2.exe
+C:\Users\DATDI\OneDrive\Escritorio\Learning\Practice2\obj\Debug\Practice2.pdb

@@ -1,0 +1,7 @@
+C:\Users\DATDI\OneDrive\Escritorio\Learning\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\DATDI\OneDrive\Escritorio\Learning\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\DATDI\OneDrive\Escritorio\Learning\Practice\bin\Debug\Practice.exe.config
+C:\Users\DATDI\OneDrive\Escritorio\Learning\Practice\bin\Debug\Practice.exe
+C:\Users\DATDI\OneDrive\Escritorio\Learning\Practice\bin\Debug\Practice.pdb
+C:\Users\DATDI\OneDrive\Escritorio\Learning\Practice\obj\Debug\Practice.exe
+C:\Users\DATDI\OneDrive\Escritorio\Learning\Practice\obj\Debug\Practice.pdb

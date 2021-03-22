@@ -1,0 +1,17 @@
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\bin\Debug\netcoreapp3.1\FormsLearn.exe
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\bin\Debug\netcoreapp3.1\FormsLearn.deps.json
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\bin\Debug\netcoreapp3.1\FormsLearn.runtimeconfig.json
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\bin\Debug\netcoreapp3.1\FormsLearn.runtimeconfig.dev.json
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\bin\Debug\netcoreapp3.1\FormsLearn.dll
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\bin\Debug\netcoreapp3.1\FormsLearn.pdb
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\obj\Debug\netcoreapp3.1\FormsLearn.csprojAssemblyReference.cache
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\obj\Debug\netcoreapp3.1\FormsLearn.Form1.resources
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\obj\Debug\netcoreapp3.1\FormsLearn.csproj.GenerateResource.cache
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\obj\Debug\netcoreapp3.1\FormsLearn.AssemblyInfoInputs.cache
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\obj\Debug\netcoreapp3.1\FormsLearn.AssemblyInfo.cs
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\obj\Debug\netcoreapp3.1\FormsLearn.csproj.CoreCompileInputs.cache
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\obj\Debug\netcoreapp3.1\FormsLearn.dll
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\obj\Debug\netcoreapp3.1\FormsLearn.pdb
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\obj\Debug\netcoreapp3.1\FormsLearn.genruntimeconfig.cache
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\obj\Debug\netcoreapp3.1\FormsLearn.Form2.resources
+C:\Users\DATDI\OneDrive\Escritorio\Learning\FormsLearn\obj\Debug\netcoreapp3.1\FormsLearn.Properties.Resources.resources
